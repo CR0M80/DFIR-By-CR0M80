@@ -9,10 +9,9 @@ Each challenge includes downloadable files and a full write‑up hosted on Mediu
 
 ### 🔹 **Shedni Radar**
 A challenge involving a corrupted PNG, homoglyph substitution, ZIP cracking, and image reconstruction.
+
 [See The Challenge](https://medium.com/your‑medium‑link-here)
 
- **Medium Profile:**
-[https://medium.com/@your-username-here](https://medium.com/@your-username-here)
 
 ## 🤝 Contributing
 
@@ -31,4 +30,6 @@ If you like these challenges:
 * ⭐ Star the repository
 * 🔄 Share it with other CTF players
 * 📝 Follow me on Medium
+ **Medium Profile:**
+[https://medium.com/@your-username-here](https://medium.com/@your-username-here)
 
