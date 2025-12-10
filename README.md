@@ -10,7 +10,7 @@ Each challenge includes downloadable files and a full write‑up hosted on Mediu
 ### 🔹 **Shedni Radar**
 A challenge involving a corrupted PNG, homoglyph substitution, ZIP cracking, and image reconstruction.
 
-[See The Challenge](https://medium.com/your‑medium‑link-here)
+--> [See The Challenge](https://medium.com/your‑medium‑link-here)
 
 
 ## 🤝 Contributing
