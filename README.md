@@ -31,5 +31,5 @@ If you like these challenges:
 * 🔄 Share it with other CTF players
 * 📝 Follow me on Medium
  **Medium Profile:**
-[https://medium.com/@your-username-here](https://medium.com/@CR0M80)
+  [CR0M80 Medium Account](https://medium.com/@CR0M80)
 
