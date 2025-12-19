@@ -5,7 +5,7 @@
 **A collection of original Forensics challenges created by me aka CR0M80.**
 Each challenge includes downloadable files and a full write‑up hosted on Medium.
 
-## 📌 Featured Challenge
+## -- 📌 Featured Challenges --
 
 ### 🔹 **Shedni Radar** : Medium
 A challenge involving a corrupted PNG, homoglyph substitution, ZIP cracking, and image reconstruction.
