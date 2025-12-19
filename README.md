@@ -7,7 +7,7 @@ Each challenge includes downloadable files and a full write‑up hosted on Mediu
 
 --------------------------------------------------------------------------------
 ##  📌 Featured Challenges 
---------------------------------------------------------------------------------
+
 ### 🔹 **Shedni Radar** : Medium
 A challenge involving a corrupted PNG, homoglyph substitution, ZIP cracking, and image reconstruction.
 
