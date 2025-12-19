@@ -1,6 +1,6 @@
 # DFIR-By-CR0M80
 
-# 🛰️ My CTF Challenges : 
+# My CTF Challenges : 
 
 **A collection of original Forensics challenges created by me aka CR0M80.**
 Each challenge includes downloadable files and a full write‑up hosted on Medium.
@@ -28,7 +28,7 @@ Feel free to:
 * or use these challenges in your own training
 
 If you create a challenge inspired by mine, tag the repo! 😊
-
+------------------------------------------------------------
 ## ⭐ Support
 
 If you like these challenges:
