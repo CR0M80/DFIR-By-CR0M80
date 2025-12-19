@@ -12,6 +12,11 @@ A challenge involving a corrupted PNG, homoglyph substitution, ZIP cracking, and
 
 --> [See The Challenge](https://medium.com/@CR0M80/shedni-radar-writeup-dfir-challenge-1e3c12f17fce)
 
+### 🔹 **System Tay7** : Hard
+A challenge involving a corrupted PNG, homoglyph substitution, ZIP cracking, and image reconstruction.
+
+--> [See The Challenge](https://medium.com/@CR0M80/shedni-radar-writeup-dfir-challenge-1e3c12f17fce)
+
 
 ## Contributing
 
