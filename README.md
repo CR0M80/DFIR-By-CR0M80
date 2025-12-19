@@ -18,7 +18,7 @@ Memory Forensics Challenge – A banker’s PC memory dump hides the truth behin
 Analyze volatile artifacts, trace a disguised malware, decrypt stolen financial data, and recover the hidden flag.
 
 --> [See The Challenge](https://medium.com/@CR0M80/system-tay7-wrietup-dfir-challenge-132efcfa5416)
-------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 ## Contributing
 
