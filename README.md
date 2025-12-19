@@ -13,9 +13,10 @@ A challenge involving a corrupted PNG, homoglyph substitution, ZIP cracking, and
 --> [See The Challenge](https://medium.com/@CR0M80/shedni-radar-writeup-dfir-challenge-1e3c12f17fce)
 
 ### 🔹 **System Tay7** : Hard
-A challenge involving a corrupted PNG, homoglyph substitution, ZIP cracking, and image reconstruction.
+Memory Forensics Challenge – A banker’s PC memory dump hides the truth behind missing balances.
+Analyze volatile artifacts, trace a disguised malware, decrypt stolen financial data, and recover the hidden flag.
 
---> [See The Challenge](https://medium.com/@CR0M80/shedni-radar-writeup-dfir-challenge-1e3c12f17fce)
+--> [See The Challenge](https://medium.com/@CR0M80/system-tay7-wrietup-dfir-challenge-132efcfa5416)
 
 
 ## Contributing
