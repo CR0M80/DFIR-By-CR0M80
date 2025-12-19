@@ -22,7 +22,7 @@ Analyze volatile artifacts, trace a disguised malware, decrypt stolen financial 
 
 -----------------------------------------------------------------------------------------------------------------------
 
-## ## Contributing & Support
+## Contributing & Support
 Feel free to:
 * suggest improvements
 * report issues
