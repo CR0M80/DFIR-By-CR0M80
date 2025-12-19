@@ -29,7 +29,5 @@ If you like these challenges:
 
 * ⭐ Star the repository
 * 🔄 Share it with other CTF players
-* 📝 Follow me on Medium
- **Medium Profile:**
-  [CR0M80 on Medium](https://medium.com/@CR0M80)
+* 📝 Follow [CR0M80 on Medium](https://medium.com/@CR0M80)
 
